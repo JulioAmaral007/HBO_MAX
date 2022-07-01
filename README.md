@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src="Images/background.jpg" width="100%">
+  <img alt="" src="Images/desktop.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
